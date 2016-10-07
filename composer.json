@@ -1,5 +1,5 @@
 {
-    "name": "rcreasy/slim-dot-env",
+    "name": "rogercreasy/slim-dot-env",
     "description": "Package to allow use of .env in a Slim Framework project",
     "require": {
         "vlucas/phpdotenv": "^2.4",
