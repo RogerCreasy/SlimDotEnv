@@ -1,0 +1,24 @@
+{
+    "name": "rcreasy/slim-dot-env",
+    "description": "Package to allow use of .env in a Slim Framework project",
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "php": ">=5.3.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8 || ^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roger Creasy",
+            "email": "roger@rogercreasy.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "RogerCreasy\\SlimDotEnv\\": "src"
+        }
+    }
+}
